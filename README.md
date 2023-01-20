@@ -5,15 +5,15 @@ Any one can use this model any deploy your own email-spam detection website.....
 
 for access this 
 
-  git clone https://github.com/Sowmiya0333/EmailSpamDetection
+        git clone https://github.com/Sowmiya0333/EmailSpamDetection
   
 First you need to clone or download the zip file.
 
-  cd EmailSpamDetection 
+       cd EmailSpamDetection 
   
 Navigate to this folder
 
-  python Copy of Untitled6.py
+       python Copy of Untitled6.py
   
 By this method user can access this model....
 
